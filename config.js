@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['967771160204']
-global.OwnerNumber = ['967771160204']
-global.ownertag = ['967771160204']
-global.BotName = "❤️الامبراطور انوس ❤️"
+global.Owner = ['967777775167']
+global.OwnerNumber = ['967777775167']
+global.ownertag = ['967777775167']
+global.BotName = "اوتشيها ساسڪي ❤️"
 global.packname = "◤𝙀𝙈𝙋𝙀𝙍𝙊𝙍🦂𝘼𝙉𝙐𝙎◢"
-global.author = "★+967771160204 ★"
-global.OwnerName = "❤️الامبراطور انوس ❤️️"
-global.BotSourceCode = "https://chat.whatsapp.com/JUngwIYTMVzCxMuismJuOY"
-global.SupportGroupLink = "https://chat.whatsapp.com/JUngwIYTMVzCxMuismJuOY"
+global.author = "★+967777775167 ★"
+global.OwnerName = "❤️اوتشيها ساسڪي ❤️️"
+global.BotSourceCode = "https://chat.whatsapp.com/CMz7aQR61c6EhVJmMOL4Jt"
+global.SupportGroupLink = "https://chat.whatsapp.com/CMz7aQR61c6EhVJmMOL4Jt"
 global.sessionName = "session"
 
 // Prefix //
